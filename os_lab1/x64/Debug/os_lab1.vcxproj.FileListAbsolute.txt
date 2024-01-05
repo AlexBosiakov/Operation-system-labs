@@ -1,0 +1,1 @@
+C:\os_lab1\x64\Debug\os_lab1.exe

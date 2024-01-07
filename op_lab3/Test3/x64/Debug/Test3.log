@@ -1,0 +1,6 @@
+﻿  Test3.cpp
+C:\op_lab3\op_lab3.cpp(31,29): warning C4244: =: преобразование "double" в "short", возможна потеря данных
+C:\Test3\Test3.cpp(108,1): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Test3\Test3.cpp(100,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Test3\Test3.cpp(103,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Test3.vcxproj -> C:\op_lab3\x64\Debug\Test3.dll

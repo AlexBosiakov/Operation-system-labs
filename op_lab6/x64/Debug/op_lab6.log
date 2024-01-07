@@ -1,0 +1,3 @@
+﻿  op_lab6.cpp
+C:\Colloquium3\op_lab6\op_lab6.cpp(32,29): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  op_lab6.vcxproj -> C:\Colloquium3\op_lab6\x64\Debug\op_lab6.exe
